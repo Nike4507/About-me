@@ -1,4 +1,4 @@
-# About-me
+# About-me project
 
 I'm Nikhilesh, a B.Tech student in Artificial Intelligence & Data Science at REVA University, Bangalore, India.
 
